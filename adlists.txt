@@ -1,4 +1,4 @@
-https://o0.pages.dev/mini/domains.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://o0.pages.dev/Lite/domains.txt
 https://o0.pages.dev/Pro/domains.txt
 https://o0.pages.dev/Xtra/domains.txt
