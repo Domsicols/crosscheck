@@ -48,3 +48,4 @@ https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tr
 https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
 https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
